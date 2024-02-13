@@ -2,3 +2,4 @@ from google.colab import files
 
 # Cargar el archivo CSV desde tu sistema local
 uploaded = files.upload()
+#Solo se añade un comentario.
